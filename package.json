@@ -1,0 +1,23 @@
+{
+  "name": "sunnyside-agency-landing-page-fme-challenge",
+  "version": "1.0.0",
+  "description": "![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha218/sunnyside-agency-landing-page-fme-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha218/sunnyside-agency-landing-page-fme-challenge/issues"
+  },
+  "homepage": "https://harsha218.github.io/sunnyside-agency-landing-page-fme-challenge/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
